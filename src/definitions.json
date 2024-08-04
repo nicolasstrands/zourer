@@ -1,0 +1,38 @@
+{
+  "gogot": {
+    "variations": ["ggt", "g*g*t"],
+    "abbreviations": ["ggt"],
+    "definition": "The genitals of a male human"
+  },
+  "pilon": {
+    "variations": ["pln", "peelon", "pilan"],
+    "abbreviations": ["pln"],
+    "acronyms": ["pln"],
+    "definition": "A chicken thigh"
+  },
+  "koson": {
+    "variations": ["cochon", "c*ch*n"],
+    "definition": "Pig"
+  },
+  "kouyon": {
+    "variations": ["couyon", "couillon"],
+    "definition": "Idiot"
+  },
+  "pede": {
+    "variations": ["pd", "p*d*", "pédé"],
+    "definition": "Homophobic slur"
+  },
+  "pitin": {
+    "variations": ["ptn", "p*tin", "putain"],
+    "definition": "Whore"
+  },
+  "tete": {
+    "variations": ["tt"],
+    "definition": "Breasts of a female subject"
+  },
+  "falourmama": {
+    "variations": ["flmm"],
+    "acronyms": ["flmm"],
+    "definition": "The equivalent of the word motherf*cker."
+  }
+}
