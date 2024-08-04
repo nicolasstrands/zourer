@@ -1,7 +1,7 @@
 import json
 
 def generate_profanity_list():
-    with open('data/profanity_defs.json', 'r') as f:
+    with open('src/profanity_defs.json', 'r') as f:
         profanity_defs = json.load(f)
 
     profanity_list = list(profanity_defs.keys())

@@ -14,11 +14,11 @@ The list of profanities can be found in the `data/profanity_list.json` file. Eac
 
 ### Adding New Profanities
 
-To add a new profanity with its variations, abbreviations, acronyms, and definition, edit the `data/profanity_defs.json` file and create a pull request.
+To add a new profanity with its variations, abbreviations, acronyms, and definition, edit the `src/profanity_defs.json` file and create a pull request.
 
 ### Generating the Profanity List
 
-The `profanity_list.json` file is automatically generated from the `profanity_defs.json` file using a GitHub Action. To manually trigger the generation, you can use the workflow dispatch feature in GitHub Actions.
+The `data/profanity_list.json` file is automatically generated from the `src/profanity_defs.json` file using a GitHub Action. To manually trigger the generation, you can use the workflow dispatch feature in GitHub Actions.
 
 ### Contributing
 
@@ -26,7 +26,7 @@ We welcome contributions! Please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your changes.
-3. Add your profanities to `data/profanity_defs.json`.
+3. Add your profanities to `src/profanity_defs.json`.
 4. Commit and push your changes.
 5. Create a pull request.
 
