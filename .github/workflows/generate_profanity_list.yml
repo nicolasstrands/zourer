@@ -3,7 +3,7 @@ name: Generate Profanity List
 on:
   push:
     paths:
-      - 'data/profanity_defs.json'
+      - 'src/definitions.json'
   workflow_dispatch:
 
 jobs:
