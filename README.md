@@ -1,4 +1,4 @@
-# profanitionary-mu
+# Profanitionary
 
 This repository contains a comprehensive list of profanities for use in for e.g. content-filtering systems (or anything else really).
 
@@ -10,7 +10,7 @@ This repository contains offensive language and profanities. If you are offended
 
 ### Profanity List
 
-The list of profanities can be found in the `data/list.json` file. Each entry includes variations, abbreviations, acronyms, and a definition.
+The list of profanities can be found in the `data/list.json` file. The list is an array of strings containing the profanities. If you need more information about each profanity, you can refer to the `src/definitions.json` file or straight up use the latter file.
 
 ### Adding New Profanities
 
